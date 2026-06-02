@@ -158,3 +158,16 @@ if (palpiteDoUsuario === numeroSecreto) {
 } else {
     console.log("seu palpite é menor do que o número secreto.");
 }
+
+// nota//
+let notaa = 8.5;
+
+if (notaa >= 9) {
+    console.log("Excelente");
+} else if (notaa >= 7) {
+    console.log("Aprovado");
+} else if (notaa >= 5) {
+    console.log("Recuperação");
+} else {
+    console.log("Reprovado");
+}
