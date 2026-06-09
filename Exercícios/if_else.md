@@ -1,4 +1,3 @@
-Claro! Segue o conteúdo formatado em **Markdown**, pronto para usar em um README, atividade de aula ou plataforma de exercícios.
 
 ````markdown
 # Lista de Exercícios - Estruturas Condicionais
